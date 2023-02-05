@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TheLastOfUsPageMobile</string>
+
+    <string name="txtAprovacao">Aprovação</string>
+    <string name="txtCritica">Critica</string>
+    <string name="txtAudiencia">Audiencia</string>
+
+    <string name="txtTitulo">The last Of Us</string>
+    <string name="txtSerie">Serie: 2023</string>
+    <string name="txtTemp">1 Temporada</string>
+    <string name="txtEp">12 Episodios</string>
+
+    <string name="txtAssitir">Assistir agora</string>
+    <string name="txtDesc">Joel e Ellie, uma dupla que se conecta através da
+        dificuldade do mundo em que vivem, são forçados a passar por circustâncias
+        brutais e enfrentra mosntros impiedosos em uma jornada pelos Estados Unidos
+        após um surto apocaliptico.</string>
+
+    <string name="txtGem">Gênero</string>
+    <string name="txtAcao">Ação</string>
+    <string name="txtFic">Ficçao</string>
+    <string name="txtDramas">Dramas</string>
+    <string name="txtPais">Pais de Origem</string>
+    <string name="txtEUA">EUA</string>
+    <string name="txtDure">Tempo de Duração</string>
+    <string name="txtMim">40Mim</string>
+    <string name="txtHora">1 hr</string>
+
+    <string name="txtElenco">Elenco</string>
+    <string name="txtPedro">Pedro Pascal</string>
+    <string name="txtJoey">Joey</string>
+    <string name="txtBella">Bella Ramsey</string>
+    <string name="txtEllie">Ellie</string>
+    <string name="txtAnna">Anna Tory"</string>
+    <string name="txtTess">Tess</string>
+    <string name="txtNico">Nico Parker</string>
+    <string name="txtSarah">Sarah</string>
+    <string name="txtVer">Ver Mais</string>
+
+
+
+</resources>
